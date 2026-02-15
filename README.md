@@ -6,6 +6,7 @@
 - 🌟 **Respected Friend:** [@Akamurasaki1](https://github.com/Akamurasaki1) - A fantastic developer and a great friend!
 
 ### GitHub Readme Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavlov-dog1&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="ovi" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=Pavlov-dog1&show_icons=true&locale=en&theme=chartreuse-white" alt="ovi" width="410" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavlov-dog1&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Pavlov-dog1&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
 <img src="https://github-profile-trophy.vercel.app/?username=Pavlov-dog1&theme=juicyfresh&no-bg=true" />
